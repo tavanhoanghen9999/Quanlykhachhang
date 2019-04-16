@@ -104,6 +104,7 @@ class PageController extends Controller
                   'sodienthoai.min'=>'Số điện thoại chưa được 10 số!!!',
                   'sodienthoai.max'=>'Số điện thoại hơn 10 số!!!',
                    'sodienthoai.required'=>'Bạn chưa nhập số điện thoại!!!',
+                 
                    'sodienthoai.unique'=>'số điện thoại đã tồn tại',
                    'diachi.required'=>'bạn chưa nhập địa chỉ!!',
 
